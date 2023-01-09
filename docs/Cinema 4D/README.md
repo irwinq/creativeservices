@@ -1,10 +1,11 @@
 ---
-title: Landing Page
+title: 首页
+autoNext: 1.基础热键
 ---
 
 
 
-# Intro
+# 欢迎
 
 欢迎来到这篇文章
 
