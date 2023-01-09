@@ -12,7 +12,7 @@ features:
   details: 选择上方的Fitness项目
 - title: 其他功能还在更新
   details: 更多请讲
-footer: MIT Licensed Powered by VuePress | Copyright © 2020 | Irwin Qi
+footer: MIT Licensed Powered by VuePress | Copyright © 2022 | Irwin Qi
 ---
 
 # Welcome 欢迎
