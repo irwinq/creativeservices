@@ -6,8 +6,8 @@ tagline: NYU Langone
 actionText: Brand Center
 actionLink: https://brandcenter.med.nyu.edu/
 features:
-- title: Pending Content
-  details: Pending Content
+- title: Guidances
+  details: [Social Media Guide](/Social Media/README.md)
 - title: Pending Content
   details: Pending Content
 - title: Pending Content
