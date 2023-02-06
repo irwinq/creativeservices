@@ -7,7 +7,7 @@ actionText: Brand Center
 actionLink: https://brandcenter.med.nyu.edu/
 features:
 - title: Guidances
-  details: [Social Media Guide](/Social Media/README.md)
+  details: 
 - title: Pending Content
   details: Pending Content
 - title: Pending Content
@@ -15,8 +15,8 @@ features:
 footer: MIT Licensed Powered by VuePress | Copyright © 2023 | Creative Services
 ---
 
-# Welcome 
-Pending 
+# Guidences
+[Social Media Guides](/Social Media/README.md)
 
 
 
