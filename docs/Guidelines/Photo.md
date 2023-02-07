@@ -37,7 +37,7 @@ Posed/group shots, animal research images, silhouetted images, and social media-
 | Size | Crop Size    | Preview                                                      |
 | ---- | ------------ | ------------------------------------------------------------ |
 | 1x1  | 1340x1340 px | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20230207100048.png) |
-| 2x1  | 3206x1340 px | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Layer%206.png) |
+| 2x1  | 3206x1340 px | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/2x1_gateway_Layer%206.jpg) |
 | 3x1  | 4232x1340 px | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/dasdasd.png) |
 
 All images should be high-resolution, digital color images (300dpi) only. 
