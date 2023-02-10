@@ -8,11 +8,11 @@ sidebarDepth: 2
 
 **NYU Grossman School of Medicine**
 
-![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Layer%202.png)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/eduhero_Layer%202(1).jpg)
 
 **NYU Long Island School of Medicine**
 
-![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Layer%201.png)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/medlihero_Layer%201(1).jpg)
 
 **NYU Langone Lab Sites**
 
@@ -36,7 +36,7 @@ Posed/group shots, animal research images, silhouetted images, and social media-
 
 | Size | Crop Size    | Preview                                                      |
 | ---- | ------------ | ------------------------------------------------------------ |
-| 1x1  | 1340x1340 px | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20230207100048.png) |
+| 1x1  | 1340x1340 px | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/1x1_gateway_2023(1).jpg) |
 | 2x1  | 3206x1340 px | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/2x1_gateway_Layer%206.jpg) |
 | 3x1  | 4232x1340 px | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/dasdasd.png) |
 
@@ -50,7 +50,7 @@ Photo format must be jpg,  jpeg, or tiff. Images should output at 72 dpi and no 
 
 ## Gallery of Images
 
-![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/dsajkdsal.png)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/gallery(1).jpg)
 
 Gallery of Images (2-10 images max)
 
