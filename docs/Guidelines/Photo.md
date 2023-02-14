@@ -88,12 +88,14 @@ For those who don’t have a professional portrait, you may submit an image with
 
 - Photo should be submitted in the original format (jpg, jpeg, or tiff), as a high-resolution, digital color image (ideally 2mb / 300 dpi)
 
- 
-
-Images that reflect your social life and/or selfies will not be accepted.
+ Images that reflect your social life and/or selfies will not be accepted.
 
 Your headshot should reflect your role at this institution as a professional. 
 
 *Please note: All images are subject to approval by the Creative Services Team*
 
-![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/1FAD-PORTRAITS(1).jpg)
+| ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/A_1250x1250_IMG_2746.jpg) | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/B_1250x1250_IMG_2739.jpg) | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/C_1250x1250_IMG_2791.jpg) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+
+
