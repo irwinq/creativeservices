@@ -73,3 +73,27 @@ Crop size: 1600x1080 pixels
 All images should be high-resolution, digital color images (ideally 2mb / 300 dpi). 
 
 Photo format must be jpg, jpeg, or tiff, preferably the original format. 
+
+
+
+## **NYU Langone Health – Headshot Photo Guidelines** 
+
+The Creative Services Department recommends using your NYU bio page portrait. 
+
+For those who don’t have a professional portrait, you may submit an image with the following guidelines;
+
+- Subject facing forward, eye contact, taken from the waist up with room above head 
+
+- Background should be clean and uncluttered, a colored/textured background works well (NO white backgrounds)
+
+- Photo should be submitted in the original format (jpg, jpeg, or tiff), as a high-resolution, digital color image (ideally 2mb / 300 dpi)
+
+ 
+
+Images that reflect your social life and/or selfies will not be accepted.
+
+Your headshot should reflect your role at this institution as a professional. 
+
+*Please note: All images are subject to approval by the Creative Services Team*
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/1FAD-PORTRAITS(1).jpg)
