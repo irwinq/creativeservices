@@ -1,10 +1,10 @@
 ---
-title: Marketing & Communications Social Media Guide
+title: Social Media Content Creation Guide
 lang: en-US
 sidebarDepth: 2
 ---
 
-# Marketing & Communications Social Media Guide
+# Social Media Content Creation Guide
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/BG.2023-02-23%2010_01_26.gif)
 
