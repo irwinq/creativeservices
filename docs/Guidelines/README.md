@@ -61,7 +61,7 @@ In this section, we list our standard looks and production treatments for social
 
 We define Text Only Animation as: Dynamic typography over a solid color background. It may have music, but it has no other audio.
 
-| <iframe src="https://player.vimeo.com/video/801624462?h=e0ea920d3a" width="640" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> | <iframe src="https://player.vimeo.com/video/801625529?h=46e93f2014" width="640" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> | <iframe src="https://player.vimeo.com/video/801623339?h=4f9b046f47" width="640" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> |
+| <iframe src="https://player.vimeo.com/video/801624462?h=e0ea920d3a" width="360" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> | <iframe src="https://player.vimeo.com/video/801625529?h=46e93f2014" width="360" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> | <iframe src="https://player.vimeo.com/video/801623339?h=4f9b046f47" width="360" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
@@ -70,7 +70,7 @@ We define Text Only Animation as: Dynamic typography over a solid color backgrou
 
 We define Motion Graphic Animation as: Dynamic typography inclusive of additional elements of and motion/graphic design, but not live action video. It may have music, but it has no other audio.
 
-| <iframe src="https://player.vimeo.com/video/801629749?h=809365c4ed" width="360" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> | <iframe src="https://player.vimeo.com/video/801630294?h=119adb5c37" width="360" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> | <iframe src="https://player.vimeo.com/video/801630744?h=ae54128aec&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Appointments, test results, video visits, and so much more, all in one place"></iframe> |
+| <iframe src="https://player.vimeo.com/video/801629749?h=809365c4ed" width="360" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> | <iframe src="https://player.vimeo.com/video/801630294?h=119adb5c37" width="360" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> | <iframe src="https://player.vimeo.com/video/801630744?h=ae54128aec&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="360" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Appointments, test results, video visits, and so much more, all in one place"></iframe> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
@@ -79,7 +79,7 @@ We define Motion Graphic Animation as: Dynamic typography inclusive of additiona
 
 We define Video with Text Over Footage as: A video where text blocks of a pre-written narrative are placed over live action footage/b-roll to tell a story. This may contain background music, but there are no spoken sound bites that require captioning.
 
-| <iframe src="https://player.vimeo.com/video/793488599?h=0ee961758b&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="360" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="ACHD_main social_9X16_v6.mp4"></iframe> | <iframe src="https://player.vimeo.com/video/790966323?h=353c087902&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="2023_Rizzo Social_1X1_V01.mp4"></iframe> | <iframe src="https://player.vimeo.com/video/760067678?h=0af9378056&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Jazrawi_Arthroscope_Square_PF_V01.mp4"></iframe> |
+| <iframe src="https://player.vimeo.com/video/793488599?h=0ee961758b&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="360" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="ACHD_main social_9X16_v6.mp4"></iframe> | <iframe src="https://player.vimeo.com/video/790966323?h=353c087902&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="360" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="2023_Rizzo Social_1X1_V01.mp4"></iframe> | <iframe src="https://player.vimeo.com/video/760067678?h=0af9378056&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="360" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Jazrawi_Arthroscope_Square_PF_V01.mp4"></iframe> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
@@ -88,7 +88,7 @@ We define Video with Text Over Footage as: A video where text blocks of a pre-wr
 
 We define Video with Embedded Captions as: An interview-driven, narrative video where audio (voiceover, interview, etc) captions are superimposed on top of video. It may also include music and/or additional segments of text to connect elements of a story.
 
-| <iframe src="https://player.vimeo.com/video/790170751?h=5dec4af254&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Chopra_Coughing_1x1.mp4"></iframe> | <iframe src="https://player.vimeo.com/video/796690420?h=188d64324a&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Alan Frey 1x1.mp4"></iframe> | <iframe src="https://player.vimeo.com/video/794566278?h=7a8d22e176&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="ACHD_GSOM social_1X1_v1.mp4"></iframe> |
+| <iframe src="https://player.vimeo.com/video/790170751?h=5dec4af254&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="360" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Chopra_Coughing_1x1.mp4"></iframe> | <iframe src="https://player.vimeo.com/video/796690420?h=188d64324a&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Alan Frey 1x1.mp4"></iframe> | <iframe src="https://player.vimeo.com/video/794566278?h=7a8d22e176&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="ACHD_GSOM social_1X1_v1.mp4"></iframe> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
@@ -103,7 +103,7 @@ In this section, we list our standard types of video and messaging approaches ge
 
 We define a teaser video as: A shortened version of a pre-existing or longer video that may live on our Newshub, a press release page, Youtube, etc. A teaser video is under 1 minute in length and is intended to inspire a user to watch it in its full-length form, a link to which is included in the accompanying post caption.
 
-<iframe src="https://player.vimeo.com/video/763518744?h=df4ccd4d86&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="360" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="CFW September Social 2022_9X16_V02"></iframe>
+<iframe src="https://player.vimeo.com/video/803130237?h=cb50aec509&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="360" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="2023_CFW March_9X16_V02.mp4"></iframe>
 
 
 
@@ -117,13 +117,13 @@ We define a social-first video as: A video created with the intention of distrib
 
 We define a talking head video as: A video with one speaker talking directly to the camera, usually with a simple/solid background.
 
-<iframe src="https://player.vimeo.com/video/751736359?h=0f367532be&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Cho_Vizient_social sq_v1.mp4"></iframe>
+<iframe src="https://player.vimeo.com/video/751736359?h=0f367532be&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="360" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Cho_Vizient_social sq_v1.mp4"></iframe>
 
 ### 4. Tell Me More
 
 We define a Tell Me More as: A video where a physician or expert breaks down the specifics of a condition or treatment and explains it in more detail.
 
-<iframe src="https://player.vimeo.com/video/796713768?h=aa86f6ab75&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="HCM_TMM_1x1.mp4"></iframe>
+<iframe src="https://player.vimeo.com/video/796713768?h=aa86f6ab75&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="360" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="HCM_TMM_1x1.mp4"></iframe>
 
 ### 5. Bio Video
 
