@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: 
-heroText: Creative Services 
+heroText: Visual Production 
 tagline: NYU Langone Communications + Marketing
 actionText: Brand Center
 actionLink: https://brandcenter.med.nyu.edu/
